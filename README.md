@@ -1,4 +1,4 @@
-# Open Fluid Bearing
+![](logo.png)
 
 Fluid and Air Bearings have many advantageous properties but are found mostly in expensive commercial machines.
 This project aims to make fluid bearing technology more accessible by providing a place for collecting and developing inexpensive and easy to manufacture solutions for the community under open source and open hardware licenses.
