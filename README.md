@@ -32,7 +32,7 @@ This project would not work without people contributing their knowledge and expe
 -Tutorial
 -Application
 
-* Pick a descriptive name and add the document type to the front: 'Build-Graphite_Rotary_Bearing.rtf'
+* Pick a descriptive name and add the document type to the front: *Build-Graphite_Rotary_Bearing.rtf*
 * Write your document using Open Office or other compatible software. Note that currently PDF files should not be used as they are not editable.
 * Generate a new folder within the project named exactly like your document and copy your document there.
 * Add a preview picture (JPG approx. 500 x 500 pixel) to your document folder.
