@@ -24,19 +24,19 @@ Documents are categorized into folders representing different types of fluid bea
 
 This project would not work without people contributing their knowledge and experience to the project. Therefore your help is highly appreciated. Unexplored ideas and tasks are constantly collected in the projects wiki on the [Task page](). 
 
-* To get started first fork the project
-* Pick a document type that fits your contribution best and download the respective template from the [Templates](Templates) folder.
+1. To get started first fork the project
+1. Pick a document type that fits your contribution best and download the respective template from the [Templates](Templates) folder.
 
--Experiment
--Build
--Tutorial
--Application
+2. Experiment
+2. Build
+2. Tutorial
+2. Application
 
-* Pick a descriptive name and add the document type to the front: *Build-Graphite_Rotary_Bearing.rtf*
-* Write your document using Open Office or other compatible software. Note that currently PDF files should not be used as they are not editable.
-* Generate a new folder within the project named exactly like your document and copy your document there.
-* Add a preview picture (JPG approx. 500 x 500 pixel) to your document folder.
-* Add the folder and its content to the git repository (your branch) and create a pull request.
+1. Pick a descriptive name and add the document type to the front: *Build-Graphite_Rotary_Bearing.rtf*
+1. Write your document using Open Office or other compatible software. Note that currently PDF files should not be used as they are not editable.
+1. Generate a new folder within the project named exactly like your document and copy your document there.
+1. Add a preview picture (JPG approx. 500 x 500 pixel) to your document folder.
+1. Add the folder and its content to the git repository (your branch) and create a pull request.
 
 The generous use of pictures in all documents is appreciated. Also make sure to provide a preview picture for each document, which is used for linking your contribution in the project wiki. Please cite external sources and honour the original authors appropriately.
 
