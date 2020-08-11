@@ -13,7 +13,7 @@ A build document contains a detailed and easy to follow description of a build p
 
 **Tutorial Document**
 Tutorial Documents explain basic techniques for manufacturing fluid bearings and related constructions.
-Examples might be tutoials for glass cutting, graphite machining, silicone mould building ...
+Examples might be tutoials for glass cutting, graphite machining, silicone mold building ...
 
 **Application Document**
 Use an application document to presents your project using fluid bearings to inspire and motive others. For example you could show your high speed 3d-printer with air bearings, your record player with a frictionless pick-up or your precision lathe using hydrostatic linear bearings. Of course less ambitious projects are also very welcome and you may also just share your build of a simple fluid bearing
