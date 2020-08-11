@@ -5,17 +5,17 @@ This project aims to make fluid bearing technology more accessible by providing 
 
 The project is organized into a collection of documents of the following types:
 
-*Experiment Document*
+**Experiment Document**
 Contains a detailed description as well as the results of an experiment. For example if you explored a new way of attaching graphite air bearings to an aluminium body, you can share your findings in an Experiment-Document. Note that failed experiments can also provide an important contribution to the project. If you already have a good solution to a problem consider contributing a build document.
 
-*Build Document*
+**Build Document**
 A build document contains a detailed and easy to follow description of a build process and is probably one of the most important pillars of this project. For example a build document could describe the process of building a rotary fluid bearing.
 
-*Tutorial Document*
+**Tutorial Document**
 Tutorial Documents explain basic techniques for manufacturing fluid bearings and related constructions.
 Examples might be tutoials for glass cutting, graphite machining, silicone mould building ...
 
-*Application Document*
+**Application Document**
 Use an application document to presents your project using fluid bearings to inspire and motive others. For example you could show your high speed 3d-printer with air bearings, your record player with a frictionless pick-up or your precision lathe using hydrostatic linear bearings. Of course less ambitious projects are also very welcome and you may also just share your build of a simple fluid bearing
 
 Documents are categorized into folders representing different types of fluid bearings. Feel free to explore the repository to find what you need.
