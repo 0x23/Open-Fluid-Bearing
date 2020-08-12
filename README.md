@@ -3,6 +3,8 @@
 Fluid and Air Bearings have many advantageous properties but are found mostly in expensive commercial machines.
 This project aims to make fluid bearing technology more accessible by providing a place for collecting and developing inexpensive and easy to manufacture solutions for the community under open source and open hardware licenses.
 
+**This Project is currently created - stay tuned for more content in near future...**
+
 The project is organized into a collection of documents of the following types:
 
 **Experiment Document**
@@ -18,7 +20,7 @@ Examples might be tutoials for glass cutting, graphite machining, silicone mold 
 **Application Document**
 Use an application document to presents your project using fluid bearings to inspire and motive others. For example you could show your high speed 3d-printer with air bearings, your record player with a frictionless pick-up or your precision lathe using hydrostatic linear bearings. Of course less ambitious projects are also very welcome and you may also just share your build of a simple fluid bearing
 
-Documents are categorized into folders representing different types of fluid bearings. Feel free to explore the repository to find what you need.
+Documents are categorized into folders representing different types of fluid bearings. Feel free to explore the repository to find what you need
 
 # Contributing
 
