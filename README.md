@@ -3,7 +3,7 @@
 Fluid and Air Bearings have many advantageous properties but are found mostly in expensive commercial machines.
 This project aims to make fluid bearing technology more accessible by providing a place for collecting and developing inexpensive and easy to manufacture solutions for the community under open source and open hardware licenses.
 
-**This Project is currently created - stay tuned for more content in near future...**
+**This Project is currently beeing created - stay tuned for more content in near future...**
 
 The project is organized into a collection of documents of the following types:
 
